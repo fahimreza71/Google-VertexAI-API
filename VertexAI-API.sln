@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VertexAI-API", "VertexAI-API.csproj", "{6DCE1E7A-B589-43D9-B6BC-71D2A970EE04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductFit", "..\ProductFit\ProductFit.csproj", "{000E44B0-2F72-40E0-8F80-7B38499D350C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCE1E7A-B589-43D9-B6BC-71D2A970EE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCE1E7A-B589-43D9-B6BC-71D2A970EE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCE1E7A-B589-43D9-B6BC-71D2A970EE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCE1E7A-B589-43D9-B6BC-71D2A970EE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000E44B0-2F72-40E0-8F80-7B38499D350C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000E44B0-2F72-40E0-8F80-7B38499D350C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000E44B0-2F72-40E0-8F80-7B38499D350C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000E44B0-2F72-40E0-8F80-7B38499D350C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29939007-6392-4C3C-AC1E-B8137B87F879}
+	EndGlobalSection
+EndGlobal
